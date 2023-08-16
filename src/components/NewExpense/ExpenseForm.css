@@ -19,6 +19,8 @@
   border: 1px solid #ccc;
   width: 20rem;
   max-width: 100%;
+  border: 3px solid rgb(141, 15, 15);
+  box-shadow: 4px solid black;
 }
 
 .new-expense__actions {
